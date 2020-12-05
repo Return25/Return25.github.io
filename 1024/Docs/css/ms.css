@@ -1,0 +1,39 @@
+﻿.mstitle
+{
+	font-size: 38px;
+	font-family: "等线";
+}
+.mscontext
+{
+	font-size: 17px;
+	font-family: "等线";
+}
+.msstitle
+{
+	font-size: 17px;
+	font-family: "等线";
+	font-weight: bold;
+}
+.mspost
+{
+	margin-top: 3%;
+	margin-left: 7%;
+}
+
+.msele
+{
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	padding-left: 0.8%;
+	padding-right: 0.8%;
+	padding-top: 0.3%;
+	padding-bottom: 0.5%;
+	font-weight: bold;
+	background-color: rgb(244,225,210);
+	color: rgb(199,37,78);
+}
+.mslight
+{
+	background-color: rgb(244,225,210);
+	color: rgb(199,37,78);
+}
